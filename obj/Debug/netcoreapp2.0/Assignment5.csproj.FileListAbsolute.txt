@@ -1,0 +1,11 @@
+C:\Assignment5\obj\Debug\netcoreapp2.0\Assignment5.csprojResolveAssemblyReference.cache
+C:\Assignment5\obj\Debug\netcoreapp2.0\Assignment5.csproj.CoreCompileInputs.cache
+C:\Assignment5\obj\Debug\netcoreapp2.0\Assignment5.AssemblyInfoInputs.cache
+C:\Assignment5\obj\Debug\netcoreapp2.0\Assignment5.AssemblyInfo.cs
+C:\Assignment5\bin\Debug\netcoreapp2.0\Assignment5.deps.json
+C:\Assignment5\bin\Debug\netcoreapp2.0\Assignment5.runtimeconfig.json
+C:\Assignment5\bin\Debug\netcoreapp2.0\Assignment5.runtimeconfig.dev.json
+C:\Assignment5\bin\Debug\netcoreapp2.0\Assignment5.dll
+C:\Assignment5\bin\Debug\netcoreapp2.0\Assignment5.pdb
+C:\Assignment5\obj\Debug\netcoreapp2.0\Assignment5.dll
+C:\Assignment5\obj\Debug\netcoreapp2.0\Assignment5.pdb
